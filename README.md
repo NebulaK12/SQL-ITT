@@ -61,19 +61,6 @@ SQL-ITT is a SQL Injection testing tool designed for ethical penetration testing
   - Injected response
   - Timestamp
 
-## Code Structure
-### `mainwindow.h`
-Defines the main application logic, including UI interactions and network requests.
-
-### `mainwindow.cpp`
-Implements the SQL Injection testing functionality, log handling, and UI updates.
-
-### `main.cpp`
-Entry point for the application, initializing the Qt UI and launching the main window.
-
-### `CMakeLists.txt`
-Configuration file for building the project with CMake.
-
 ## Security & Ethical Considerations
 - **SQL-ITT is intended for ethical penetration testing only.**
 - Use only on systems you have explicit permission to test.
