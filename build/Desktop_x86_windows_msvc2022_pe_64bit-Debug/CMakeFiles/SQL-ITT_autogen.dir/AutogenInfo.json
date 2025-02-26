@@ -329,9 +329,27 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/Gebruiker/Documents/SQL-ITT/logger.h",
+			"MU",
+			"EWIEGA46WW/moc_logger.cpp",
+			null
+		],
+		[
 			"C:/Users/Gebruiker/Documents/SQL-ITT/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Gebruiker/Documents/SQL-ITT/networkhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_networkhandler.cpp",
+			null
+		],
+		[
+			"C:/Users/Gebruiker/Documents/SQL-ITT/uilogic.h",
+			"MU",
+			"EWIEGA46WW/moc_uilogic.cpp",
 			null
 		]
 	],
@@ -392,8 +410,11 @@
 	"SETTINGS_FILE" : "C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/SQL-ITT_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "C:/Users/Gebruiker/Documents/SQL-ITT/logger.cpp", "MU", null ],
 		[ "C:/Users/Gebruiker/Documents/SQL-ITT/main.cpp", "MU", null ],
-		[ "C:/Users/Gebruiker/Documents/SQL-ITT/mainwindow.cpp", "MU", null ]
+		[ "C:/Users/Gebruiker/Documents/SQL-ITT/mainwindow.cpp", "MU", null ],
+		[ "C:/Users/Gebruiker/Documents/SQL-ITT/networkhandler.cpp", "MU", null ],
+		[ "C:/Users/Gebruiker/Documents/SQL-ITT/uilogic.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

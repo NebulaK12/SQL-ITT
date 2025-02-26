@@ -1,0 +1,8 @@
+C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/SQL-ITT.dir
+C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/install.dir
+C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/install/local.dir
+C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/SQL-ITT_autogen_timestamp_deps.dir
+C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/SQL-ITT_autogen.dir

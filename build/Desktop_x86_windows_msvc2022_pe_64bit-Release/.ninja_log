@@ -1,0 +1,14 @@
+# ninja log v5
+4	26	0	CMakeFiles/clean.additional	321391b2684b2653
+27	34	0	clean	423d399e6810f01
+10	357	7622947912244516	SQL-ITT_autogen/timestamp	30ef9b5673782dfa
+10	357	7622947912244516	SQL-ITT_autogen/mocs_compilation.cpp	30ef9b5673782dfa
+10	357	7622947912244516	C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/SQL-ITT_autogen/timestamp	30ef9b5673782dfa
+10	357	7622947912244516	C:/Users/Gebruiker/Documents/SQL-ITT/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/SQL-ITT_autogen/mocs_compilation.cpp	30ef9b5673782dfa
+366	1988	7622947928945695	CMakeFiles/SQL-ITT.dir/networkhandler.cpp.obj	63ddf1b54fa00ef9
+372	2143	7622947930485694	CMakeFiles/SQL-ITT.dir/uilogic.cpp.obj	527fd3eefe36561a
+369	2209	7622947931146107	CMakeFiles/SQL-ITT.dir/logger.cpp.obj	93eeec5b02afb23
+360	2262	7622947931685684	CMakeFiles/SQL-ITT.dir/main.cpp.obj	4ffce352ef3e5b0d
+358	2294	7622947932016007	CMakeFiles/SQL-ITT.dir/SQL-ITT_autogen/mocs_compilation.cpp.obj	602cf3c876a33339
+363	2386	7622947932926127	CMakeFiles/SQL-ITT.dir/mainwindow.cpp.obj	5d8dc6c2d311627e
+2386	2512	7622947934123619	SQL-ITT.exe	a0af5bafec7f225a

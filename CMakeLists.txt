@@ -18,6 +18,12 @@ set(PROJECT_SOURCES
     mainwindow.cpp
     mainwindow.h
     mainwindow.ui
+    networkhandler.h
+    networkhandler.cpp
+    logger.h
+    logger.cpp
+    uilogic.h
+    uilogic.cpp
 )
 
 # Fix incorrect if-statement
